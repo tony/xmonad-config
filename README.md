@@ -29,8 +29,9 @@ More kung-fu
     alias trayer='trayer --edge top --align right --SetDockType true --SetPartialStrut true --expand true --width 10 --transparent true --tint 0x000000 --height 12 &'
 
   2.  :wq
+  3.
     source .bashrc   or source .profile
-  Now type trayer, then nm-applet via terminal.
+  4.  Now type trayer, then nm-applet via terminal.
 
 Optional
 --------
