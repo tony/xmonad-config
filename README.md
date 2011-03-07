@@ -1,5 +1,5 @@
 #Tony Narlock's Xmonad, Xmobar, rxvt-uncode configuration
-(skiquel @ gmail)
+http://www.github.com/tony
 
 This configuration is used in Xmonad .9 on ubuntu
 
